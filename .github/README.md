@@ -34,7 +34,7 @@ My favorite movie is Flipped.
 
 <img src="assets/Flipped.jpg" alt="Flipped.jpg" width=50% />
 
-Crayon Shin-chan is my "best friend", that always accompany me when I am eating.
+Crayon Shin-chan is my "best friend", that always accompanys me when I am eating.
 
 This is the YeYuans' family picture painted by me.
 
