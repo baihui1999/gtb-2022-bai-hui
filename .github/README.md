@@ -1,4 +1,5 @@
-#welcome to my Org
+# Welcome to my Org
 
-Hi~this is Bai Hui, a girl from the northeast of China.
+Hi~this is Bai Hui.
 
+<img src="assets/niwo1.png" alt="niwo1.png" width=30% />
