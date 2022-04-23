@@ -32,13 +32,13 @@ I also like making handcrafts. This is one of my works.
 
 My favorite movie is Flipped.
 
-<img src="assets/Flipped.jpg" alt="Flipped.jpg" width=30% />
+<img src="assets/Flipped.jpg" alt="Flipped.jpg" width=50% />
 
 Crayon Shin-chan is my "best friend", that always accompany me when I am eating.
 
 This is the YeYuans' family picture painted by me.
 
-<img src="assets/the YeYuans.jpg" alt="the YeYuans.jpg" width=30% />
+<img src="assets/the YeYuans.jpg" alt="the YeYuans.jpg" width=50% />
 
 I also love The Famous Detective Conan. 
 
