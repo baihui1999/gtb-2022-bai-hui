@@ -47,3 +47,10 @@ When I was a child, I had a dream.
 I dreamed to be a ownner of a book shop, so that I chould read the books and magazines immediately as they were published.
 
 <img src="profile/assets/glass.jpg" alt="glass.jpg" width=30% />
+
+In the end, share the snowscspe of my school with you.
+
+<img src="profile/assets/snowscape.jpg" alt="snowscape.jpg" width=80% />
+
+Have a good day.💌
+
