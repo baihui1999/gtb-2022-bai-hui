@@ -42,6 +42,8 @@ This is the YeYuans' family picture painted by me.
 
 I also love The Famous Detective Conan. 
 
-When I was a child, I have a dream. I dreamed to be a ownner of a book shop, so that I chould read the books and magazines immediately as they were published.
+When I was a child, I had a dream. 
+
+I dreamed to be a ownner of a book shop, so that I chould read the books and magazines immediately as they were published.
 
 <img src="profile/assets/glass.jpg" alt="glass.jpg" width=30% />
